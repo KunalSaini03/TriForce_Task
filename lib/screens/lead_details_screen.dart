@@ -95,7 +95,7 @@ class FollowUpTab extends StatelessWidget {
                 status: 'Call | Scheduled',
                 title: 'Follow up - 2',
                 description: 'Customer is exploring Finance options.',
-                chipColor: Color(0xFF3F51B5), // Blue color
+                chipColor: Color(0xFF3F51B5), 
               ),
               FollowUpCard(
                 date: 'April 10, 2020 4:17 pm',
